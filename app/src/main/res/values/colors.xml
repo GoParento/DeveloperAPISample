@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#ff0f9b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mainBg">#00BCD4</color>
+    <color name="white">#ffffff</color>
+    <color name="colorprimaryblue">#ed03a9f4</color>
+    <color name="transparent">#72c9bbbb</color>
+    <color name="statusbar">#ea1d63</color>
+    <color name="black">#000000</color>
+
+
+    <color name="black_o_70">#B3000000</color>
+
+
+    <!--Accent Color Collection-->
+    <color name="cardview_dark_background">#FF424242</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+
+    <!--MATERIAL COLORS-->
+
+    <!--ALL COLOURS-->
+
+
+    <!--IMAGE EDITING -->
+
+
+    <color name="goparento_pink">#FF668F</color>
+
+
+</resources>
+
